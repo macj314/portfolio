@@ -15,7 +15,7 @@ _Create a portfolio to represent yourself and your work
 * Right click and open in the browser of your choice.
 
 _Project repository: https://github.com/macj314/portfolio
-_View at: macj314@github.io/portfolio
+_View at: https://macj314.github.io/portfolio/
 
 ## Known Bugs
 
@@ -25,5 +25,5 @@ No known bugs.
 
 HTML
 CSS
-Git and GitHub
+Git
 Bootstrap
