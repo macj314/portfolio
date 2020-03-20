@@ -11,7 +11,7 @@
 }
 
 @media screen and (max-width: 600px) {
-  .panel{
+  .col{
     width: 100%;
     background-color: tomato;
   }
