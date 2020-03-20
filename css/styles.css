@@ -4,33 +4,39 @@
   text-align: left;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
 .bio {
   margin-left: 5%;
   padding-right: 5%;
   border-right: 1px inset;
   border-color: rgb(156, 235, 235);
 }
-.bio p{
 
-  margin-top: 10%;
-}
 .bio .panel-title{
   font-style: italic;
   text-align: center;
   margin-bottom: 8%;
   color: rgb(99, 233, 233);
 }
-.work{
-  /* margin-left: 10%; */
-}
-.work hr{
-  border-color: rgb(156, 235, 235);
-}
 
-img{
+.bio img{
   height: 40%;
   width: 40%;
   border-radius: 50%;
   margin: auto;    
   display: block;
+}
+
+.bio .panel-body{
+  font-size: small;
+}
+.bio p{
+  margin-top: 10%;
+}
+
+.work{
+  /* margin-left: 10%; */
+}
+.work hr{
+  border-color: rgb(156, 235, 235);
 }
