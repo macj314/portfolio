@@ -1,5 +1,27 @@
+.container{
+  /* vertical-align: top; */
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', sans-serif;
+}
+.bio {
+  border: blue;
+  border-right: teal;
+  margin-top: 8%;
+  margin-left: 25%;
+  float: left;
+}
+.bio p{
+  margin-top: 10%;
+}
+.bio .panel-title{
+  margin-bottom: 8%;
+  color: rgb(99, 233, 233);
+}
+.work{
+  float: right;
+}
 img{
-  height: 50%;
-  width: 50%;
+  height: 40%;
+  width: 40%;
   border-radius: 50%;
+  margin-left: 6%;
 }
