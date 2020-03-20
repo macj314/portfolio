@@ -1,24 +1,8 @@
-@media screen and (max-width: 800px) { 
-  .container-fluid .panel{
-    width: 50%;
-  }  
-  .work hr{
-    border-color: brown;
-  }
-  .bio{
-    float: left;
-  }
-}
-
 @media screen and (max-width: 600px) {
-  .col{
-    width: 100%;
-    background-color: tomato;
+  .bio{
+    margin-left: -5%;
+    padding-right: -5%;
   }
-  .work{  
-    margin-top: 10%;
-  }
-
 }
 
 .container-fluid{
@@ -45,8 +29,7 @@ a { color: rgb(99, 233, 233); }
 }
 
 .bio img{
-  height: 40%;
-  width: 40%;
+  width: 25%;
   border-radius: 50%;
   float: right;
 }
@@ -64,9 +47,9 @@ a { color: rgb(99, 233, 233); }
   margin-top: 10%;
 }
 
-/* .work hr{
+.work hr{
   border-color: rgb(156, 235, 235);
-} */
+}
 
 .work h5, h6{
   font-weight: bold;
