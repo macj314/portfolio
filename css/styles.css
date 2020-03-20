@@ -34,8 +34,8 @@
   margin-top: 10%;
 }
 
-.work{
-  /* margin-left: 10%; */
+.work, h5, h6{
+  font-style: bold;
 }
 .work hr{
   border-color: rgb(156, 235, 235);
