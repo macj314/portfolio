@@ -1,5 +1,14 @@
-.container{
-  margin-top: 4%;
+/* @media (min-width: 576px) {
+
+} */
+
+@media (min-width: 768px) {}
+
+
+a { color: rgb(99, 233, 233); }
+
+.container-fluid{
+  margin-top: 4% !important;
   margin-bottom: 4%;
   text-align: left;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -9,7 +18,7 @@
   margin-left: 5%;
   padding-right: 5%;
   border-right: 1px inset;
-  border-color: rgb(156, 235, 235);
+  border-color: rgb(99, 233, 233);
 }
 
 .bio .panel-title{
@@ -23,8 +32,7 @@
   height: 40%;
   width: 40%;
   border-radius: 50%;
-  margin: auto;    
-  display: block;
+  float: right;
 }
 
 .bio .panel-body{
@@ -40,6 +48,10 @@
   margin-top: 10%;
 }
 
+.work hr{
+  border-color: rgb(156, 235, 235);
+}
+
 .work h5, h6{
   font-weight: bold;
 }
@@ -48,6 +60,6 @@
   font-style: oblique;
 }
 
-.work hr{
-  border-color: rgb(156, 235, 235);
+.work ol{
+  float: inline-start;
 }
