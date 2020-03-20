@@ -14,8 +14,8 @@ _Create a portfolio to represent yourself and your work
 * Navigate to index.html file.
 * Right click and open in the browser of your choice.
 
-
-_View at macj314@github.io/portfolio
+_Project repository: https://github.com/macj314/portfolio
+_View at: macj314@github.io/portfolio
 
 ## Known Bugs
 
