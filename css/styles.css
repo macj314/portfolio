@@ -1,13 +1,10 @@
 .container{
-  /* vertical-align: top; */
+  margin-top: 4%;
+  text-align: left;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', sans-serif;
 }
 .bio {
-  border: blue;
-  border-right: teal;
-  margin-top: 8%;
-  margin-left: 25%;
-  float: left;
+  margin-left: 20%;
 }
 .bio p{
   margin-top: 10%;
@@ -17,8 +14,12 @@
   color: rgb(99, 233, 233);
 }
 .work{
-  float: right;
+  margin-left: 10%;
 }
+.work hr{
+  color: azure;
+}
+
 img{
   height: 40%;
   width: 40%;
