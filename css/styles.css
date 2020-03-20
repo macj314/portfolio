@@ -15,6 +15,8 @@
   margin-top: 10%;
 }
 .bio .panel-title{
+  font-style: italic;
+  text-align: center;
   margin-bottom: 8%;
   color: rgb(99, 233, 233);
 }
@@ -29,5 +31,6 @@ img{
   height: 40%;
   width: 40%;
   border-radius: 50%;
-  margin-left: 6%;
+  margin: auto;    
+  display: block;
 }
