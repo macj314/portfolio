@@ -1,10 +1,13 @@
 .container{
   margin-top: 4%;
   text-align: left;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', sans-serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .bio {
   margin-left: 20%;
+  padding-right: 12%;
+  border-right: 1px inset;
+  border-color: rgb(156, 235, 235);
 }
 .bio p{
   margin-top: 10%;
@@ -17,7 +20,7 @@
   margin-left: 10%;
 }
 .work hr{
-  color: azure;
+  border-color: rgb(156, 235, 235);
 }
 
 img{
