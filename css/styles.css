@@ -29,14 +29,25 @@
 
 .bio .panel-body{
   font-size: small;
+  font-style: oblique;
 }
+
+.bio h5{
+  font-weight: bold;
+}
+
 .bio p{
   margin-top: 10%;
 }
 
-.work, h5, h6{
-  font-style: bold;
+.work h5, h6{
+  font-weight: bold;
 }
+
+.work .panel-title{
+  font-style: oblique;
+}
+
 .work hr{
   border-color: rgb(156, 235, 235);
 }
